@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.1",
   "type": "module",
-  "homepage": "https://Dorothy-blue.github.io/Mooddiaryapp-main/",
+  "homepage": "https://Dorothy-blue.github.io/Mooddiaryapp/",
   "scripts": {
     "build": "vite build",
     "dev": "vite"

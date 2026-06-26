@@ -16,7 +16,7 @@ function figmaAssetResolver() {
 }
 
 export default defineConfig({
-  base: '/Mooddiaryapp-main/',
+  base: '/Mooddiaryapp/',
   plugins: [
     figmaAssetResolver(),
     react(),
